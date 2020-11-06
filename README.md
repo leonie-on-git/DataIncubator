@@ -1,1 +1,1 @@
-# DataIncubator
+# Capstone project proposal for DataIncubator
